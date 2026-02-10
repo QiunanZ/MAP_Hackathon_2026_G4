@@ -30,7 +30,7 @@ We use a hybrid approach to leverage the best of both worlds:
 ```bash
 .
 ├── data/                   # Raw and Processed Data
-│   ├── raw_xpt/            # Original NHANES XPT files
+│   ├── raw/                # Original NHANES XPT files
 │   └── nhanes_merged.csv   # Final merged dataset
 ├── src/                    # Source Code
 │   ├── download_data.R     # 🟢 R Script to fetch NHANES data
