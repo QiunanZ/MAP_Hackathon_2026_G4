@@ -212,4 +212,5 @@ data/
 *.xpt
 *.csv
 *.gz
+*.pkl
 !data/.gitkeep
