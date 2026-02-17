@@ -1,0 +1,4 @@
+{
+    "python.defaultInterpreterPath": "/opt/conda/envs/coi_hackathon/bin/python",
+    "python.terminal.activateEnvInSelectedTerminal": true
+}
